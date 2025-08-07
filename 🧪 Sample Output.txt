@@ -1,0 +1,5 @@
+Total Sales by Product:
+  Product  total_sales
+0  Laptop         3600
+1   Phone         1800
+2  Tablet         1200
